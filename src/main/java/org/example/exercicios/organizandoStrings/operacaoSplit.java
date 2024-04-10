@@ -4,7 +4,7 @@ public class operacaoSplit {
     public static void main(String[] args) {
         //SPLIT separa por vetores a string que tem vários nomes
 
-        String nome = "Rodrigo Salsa A da S";
+        String nome = "Rodrigo Salsa A da Silva";
 
         String[] vect = nome.split(" ");
         System.out.println(vect[0]);

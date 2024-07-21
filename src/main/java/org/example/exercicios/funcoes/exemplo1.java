@@ -44,6 +44,7 @@ public class exemplo1 {
         return aux;
     }
 
+
     public static void showResult(int value){
         //função que retorna o valor na tela
         System.out.println("O maior número é: " + value);
